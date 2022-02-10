@@ -1,0 +1,13 @@
+com\etz\comparedoc\config\AppConfig.class
+com\etz\comparedoc\service\AssUploadService.class
+com\etz\comparedoc\domain\response\ResponseConstants.class
+com\etz\comparedoc\utils\EncryptionUtils.class
+com\etz\comparedoc\model\Doc.class
+com\etz\comparedoc\repository\ComparedRepository.class
+com\etz\comparedoc\controller\AssController.class
+com\etz\comparedoc\domain\response\BaseResponse.class
+com\etz\comparedoc\repository\AssRepository.class
+com\etz\comparedoc\ComparedocApplication.class
+com\etz\comparedoc\controller\UserController.class
+com\etz\comparedoc\domain\request\CompareRequest.class
+com\etz\comparedoc\domain\response\CompareResponse.class
